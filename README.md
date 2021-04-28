@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raihan!
 - 👀 I’m interested in Full stack developing
-- 🌱 I’m currently learning Devops and software devloping 
+- 🌱 I’m currently learning Devops and software developing 
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me Raihan_a11@hotmail.com
 
