@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raihan11x
+- 👋 Hi, I’m Raihan!
 - 👀 I’m interested in Full stack developing
 - 🌱 I’m currently learning Devops and software devloping 
 - 💞️ I’m looking to collaborate on any projects
