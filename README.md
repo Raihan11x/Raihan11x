@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/raihan-a-843296157/" target="_blank">LinkedIn<img href height="32" align="left" alt="LinkedIn" width="26px" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/raihan-a-843296157/" target="_blank"><img href height="32" align="left" alt="LinkedIn" width="26px" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /></a>
 
 <br />
 
