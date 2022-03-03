@@ -20,7 +20,7 @@
 <img height="32" align="left" alt="Docker" width="26px" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" />
 <img height="32" align="left" alt="Kubernetes" width="26px" src="https://unpkg.com/simple-icons@v6/icons/kubernetes.svg" />
 <img height="32" align="left" alt="Terraform" width="26px" src="https://unpkg.com/simple-icons@v6/icons/terraform.svg" />
-<img height="32" align="left" alt="AWS" width="26px" src="https://unpkg.com/simple-icons@v6/icons/aws.svg" />
+<img height="32" align="left" alt="AWS" width="26px" src="https://unpkg.com/simple-icons@v6/icons/amazonaws.svg" />
 
 
 <br />
