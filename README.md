@@ -14,7 +14,11 @@
 
 ### Languages and Tools:
 
+<img href height="32" align="left" alt="Visual Studio Code" width="32" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/terraform/visualstudiocode.png" />
+<img href height="32" align="left" alt="Terraform" width="32" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/terraform/terraform.png" />
+<img href height="32" align="left" alt="AWS" width="32" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img href height="32" align="left" alt="Kubernetes" width="32" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
+<img href height="32" align="left" alt="Docker" width="32" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/docker/docker.png" />
 
 <br />
 <br />
