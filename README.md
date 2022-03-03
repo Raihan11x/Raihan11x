@@ -10,8 +10,6 @@
 
 <a href="https://www.linkedin.com/in/raihan-a-843296157/" target="_blank"><img href height="32" align="left" alt="LinkedIn" width="26px" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /></a>
 
-<br />
-
 ### Languages and Tools:
 
 <img href height="32" align="left" alt="GO" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
@@ -23,7 +21,8 @@
 
 <br />
 <br />
-<br />
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
