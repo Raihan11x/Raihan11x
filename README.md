@@ -27,7 +27,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raihan11x&theme=radical)
 
-<br />
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
