@@ -15,17 +15,11 @@
 ### Languages and Tools:
 
 <img height="32" align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" />
-<img height="32" width="26px" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" />
 <img height="32" align="left" alt="Python" width="26px" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />
-<img height="32" width="26px" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />
 <img height="32" align="left" alt="GitHub" width="26px" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
-<img height="32" width="26px" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
 <img height="32" align="left" alt="Docker" width="26px" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" />
-<img height="32" width="26px" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" />
 <img height="32" align="left" alt="Kubernetes" width="26px" src="https://unpkg.com/simple-icons@v6/icons/kubernetes.svg" />
-<img height="32" width="26px" src="https://unpkg.com/simple-icons@v6/icons/kubernetes.svg" />
 <img height="32" align="left" alt="Terraform" width="26px" src="https://unpkg.com/simple-icons@v6/icons/terraform.svg" />
-<img height="32" width="26px" src="https://unpkg.com/simple-icons@v6/icons/terraform.svg" />
 
 <br />
 <br />
