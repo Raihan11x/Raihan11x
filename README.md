@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img height="32" align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img height="32" align="left" alt="Visual Studio Code" width="26px" src="https://unpkg.com/simple-icons@v6/icons/visual_studio_code.svg" />
 <img height="32" align="left" alt="Python" width="26px" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />
 <img height="32" align="left" alt="GitHub" width="26px" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
 <img height="32" align="left" alt="Docker" width="26px" src="https://unpkg.com/simple-icons@v6/icons/docker.svg" />
