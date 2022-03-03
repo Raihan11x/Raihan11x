@@ -1,3 +1,4 @@
+<!--START_SECTION:activity-->
 ### Hi there, I'm Raihan 👋
 
 ## I'm a DevOps Engineer who has a passion for learning new technologies.
@@ -26,3 +27,8 @@
 <br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raihan11x&theme=radical)
+
+<br />
+<br />
+<br />
+
