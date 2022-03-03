@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/raihan-a-843296157/-light-mode-only)[LinkedIn]
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/raihan-a-843296157/)[LinkedIn]
 
 <br />
 
