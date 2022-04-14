@@ -35,4 +35,5 @@
   <summary>:zap: Recent GitHub Activity</summary>
 </details>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/lfacchinelli/MyGoServer/pull/2) in [lfacchinelli/MyGoServer](https://github.com/lfacchinelli/MyGoServer)
 <!--END_SECTION:activity-->
