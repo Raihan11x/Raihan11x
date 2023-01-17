@@ -34,6 +34,8 @@
 <details>
   <summary>:zap: GitHub Trends</summary>
   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Raihan11x/langs)](https://githubtrends.io)
+</details>
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 </details>
