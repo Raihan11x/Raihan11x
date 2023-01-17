@@ -28,9 +28,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    [![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihan11x)](https://github.com/anuraghazra/github-readme-stats)
+    [![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihan11x)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
+<details>
+  <summary>:zap: GitHub Trends</summary>
+  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Raihan11x/langs)](https://githubtrends.io)
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 </details>
