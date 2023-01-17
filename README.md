@@ -28,7 +28,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    [![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aihan11x)](https://github.com/anuraghazra/github-readme-stats)
+    [![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihan11x)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
