@@ -3,7 +3,6 @@
 ## I'm a DevOps Engineer who has a passion for learning new technologies.
 -   🔭 I'm currently learning GO
 -   🌱 I'm Looking to collaborate with other developers
--   🥅 2022 Goals: Learn more about web3
 -   ⚡ Fun fact: I love to play and watch Football
 
 ### Connect with me:
