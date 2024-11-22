@@ -49,7 +49,6 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-  ![Recent GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Raihan11x&theme=github)
 
+  Check out my recent GitHub activity: [Recent Activity Feed](https://github.com/Raihan11x?tab=activity)
 </details>
