@@ -38,54 +38,36 @@ I'm passionate about building scalable infrastructure, automating deployments, a
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raihan11x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihan11x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
----
-
 ### 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raihan11x&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raihan11x&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raihan11x&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/Raihan11x" alt="Raihan's Github Chart" />
+</p>
 
 ---
 
-### 📚 Latest Blog Posts / Projects
+### 📚 Featured Projects
 
-<!-- BLOG-POST-LIST:START -->
 - 🔧 [DevOps Learning](https://github.com/Raihan11x/LearningDevOps) - My DevOps learning journey
-- ☸️ [Kubernetes Minikube](https://github.com/Raihan11x/Kubernetes-Minikube) - Kubernetes experiments
+- ☸️ [Kubernetes Minikube](https://github.com/Raihan11x/Kubernetes-Minikube) - Kubernetes experiments  
 - 🐍 [Python Multi-Tier Web App](https://github.com/Raihan11x/Python-Multi-Tier-Web-App) - Multi-tier architecture project
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raihan11x&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
+</p>
 
 <!--
 Profile README maintained with help from Mewtwo AI
 Last updated: 2026-02-14
+Note: Third-party stats services occasionally go down due to rate limits
 -->
