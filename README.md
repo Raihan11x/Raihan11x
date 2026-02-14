@@ -1,54 +1,91 @@
 # Hi there, I'm Raihan 👋
 
-## I'm a DevOps Engineer with a passion for learning new technologies.
-- 🔭 I'm currently learning **Go** to expand my backend development skills.
-- 🌱 I’m looking to collaborate with other developers on open-source projects.
-- ⚡ Fun fact: I love to play and watch **Football**. It’s one of my favorite pastimes!
+## DevOps Engineer | Cloud Infrastructure | Automation Enthusiast
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/raihan-ali-843296157/" target="_blank">
-  <img height="32" align="left" alt="LinkedIn" width="26px" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" />
-</a>
+I'm passionate about building scalable infrastructure, automating deployments, and learning new technologies. Currently expanding my skills in Go and Kubernetes.
 
-<br />
+- 🔭 I'm currently learning **Go** to expand my backend development skills
+- 🌱 I’m looking to collaborate on open-source DevOps projects
+- ⚡ Fun fact: I love to play and watch **Football** — it's one of my favorite pastimes!
 
 ---
 
-### Languages and Tools:
-<img height="32" align="left" alt="Go" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img height="32" align="left" alt="Visual Studio Code" width="32" src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" />
-<img height="32" align="left" alt="Terraform" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img height="32" align="left" alt="AWS" width="32" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<img height="32" align="left" alt="Kubernetes" width="32" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
-<img height="32" align="left" alt="Docker" width="32" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/docker/docker.png" />
+### 🌐 Connect with me:
 
-<br />
-<br />
+<a href="https://www.linkedin.com/in/raihan-ali-843296157/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Raihan11x" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <p>
-    ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihan11x)
-  </p>
-</details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raihan11x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihan11x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
-### 📊 GitHub Trends
+---
 
-<details>
-  <summary>:zap: GitHub Trends</summary>
-  <p>
-    ![GitHub Trends](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihan11x&layout=compact)
-  </p>
-</details>
+### 🔥 GitHub Streak
 
-### 📊 Recent GitHub Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raihan11x&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+---
 
-  Check out my recent GitHub activity: [Recent Activity Feed](https://github.com/Raihan11x?tab=activity)
-</details>
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raihan11x&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raihan11x&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📚 Latest Blog Posts / Projects
+
+<!-- BLOG-POST-LIST:START -->
+- 🔧 [DevOps Learning](https://github.com/Raihan11x/LearningDevOps) - My DevOps learning journey
+- ☸️ [Kubernetes Minikube](https://github.com/Raihan11x/Kubernetes-Minikube) - Kubernetes experiments
+- 🐍 [Python Multi-Tier Web App](https://github.com/Raihan11x/Python-Multi-Tier-Web-App) - Multi-tier architecture project
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raihan11x&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
+
+<!--
+Profile README maintained with help from Mewtwo AI
+Last updated: 2026-02-14
+-->
